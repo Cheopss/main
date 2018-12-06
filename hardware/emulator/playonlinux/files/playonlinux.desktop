@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Encoding=UTF-8
+Name=playonlinux
+GenericName=playonlinux
+GenericName[tr]=playonlinux
+Comment=sfdf
+Comment[tr]=sfdf
+Icon=playonlinux
+Exec=playonlinux
+Terminal=false
+StartupNotify=false
+Categories=Application;Game;
